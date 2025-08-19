@@ -8,7 +8,7 @@ I am **Jiahao Xu**, a third-year Ph.D. student in the Department of Computer Sci
 
 ## Research Interests
 
-- **Federated Learning:** Security, Privacy, Watermarking
+- **Federated Learning:** Security, Privacy, Model Watermarking
 - **Large Language Models:** Text Watermarking
 
 ## News
@@ -22,9 +22,10 @@ I am **Jiahao Xu**, a third-year Ph.D. student in the Department of Computer Sci
 - **[Jan. 2025]** I received the 2024 Nevada WaterReuse Research Grant from WateReuse Nevada.
 - **[Nov. 2024]** I received a Travel Grant from the Graduate Student Association at UNR.
 - **[Oct. 2024]** Our papers *MASA* and *Reconfig-MIT* are accepted to WACV 2025.
-- **[Aug. 2024]** Our paper *LASA* is accepted to WACV 2025.
+- **[Aug. 2024]** Our paper *LASA* is accepted to WACV 2025 as an <span style="color:red;">Oral</span> presentation.
 - **[Dec. 2023]** Our paper *RGGAN* is accepted to AAAI 2024.
 - **[Aug. 2023]** I joined UNR as a Ph.D. student.
+- **[Mar. 2023]** I started my Research Assistant appointment in the Department of Computing at PolyU.
 - **[Feb. 2023]** Our paper *ReGAN* is accepted to CVPR 2023.
 
 <!-- {% include_relative _includes/publications.md %} -->
