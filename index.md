@@ -13,14 +13,14 @@ I am **Jiahao Xu**, a third-year Ph.D. student in the Department of Computer Sci
 
 ## News
 
-- **[Aug. 2025]** Our survey paper on potential vulnerabilities of Federated Learning for smart grids is accepted to ACM TPCS.
+- **[Aug. 2025]** Our survey paper on potential vulnerabilities of federated learning for smart grids is accepted to ACM TPCS.
 - **[Jul. 2025]** Our paper *SoDa-BNGuard* is accepted to MobiHoc 2025.
-- **[Jul. 2025]** The extended version of our paper *ReGAN* (CVPR 2023) is accepted to IEEE TPAMI.
+- **[Jul. 2025]** The extended version of our previous work *ReGAN* (CVPR 2023) is accepted to IEEE TPAMI.
 - **[Jul. 2025]** Our paper *Fed-HeLLo* is accepted to IEEE TNNLS.
-- **[Apr. 2025]** I received the Travel Support Award from CVPR 2025.
-- **[Feb. 2025]** Our paper *AlignIns* is accepted to CVPR 2025.
-- **[Jan. 2025]** I received the 2024 Nevada WaterReuse Research Grant from WateReuse Nevada.
-- **[Nov. 2024]** I received a Travel Grant from the Graduate Student Association at UNR.
+- **[Apr. 2025]** I received the Travel Support Award from CVPR 2025, big thank you CVPR!
+- **[Feb. 2025]** Our paper *AlignIns* is accepted to CVPR 2025 as a <span style="color:red;">Highlight</span>.
+- **[Jan. 2025]** I received the 2024 Nevada WaterReuse Research Grant from WateReuse Nevada, big thanks!
+- **[Nov. 2024]** I received a Travel Grant from the Graduate Student Association at UNR, big thanks!
 - **[Oct. 2024]** Our papers *MASA* and *Reconfig-MIT* are accepted to WACV 2025.
 - **[Aug. 2024]** Our paper *LASA* is accepted to WACV 2025 as an <span style="color:red;">Oral</span> presentation.
 - **[Dec. 2023]** Our paper *RGGAN* is accepted to AAAI 2024.
