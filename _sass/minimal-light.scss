@@ -458,14 +458,14 @@ footer {
   text-align:center;
 }
 
-@media print, screen and (max-width: 1280px) {
+@media print, screen and (max-width: 960px) {
 
   .pub-row {
   display: flex; 
   align-items: center;}
 
   div.wrapper {
-    width:1280px;
+    width:auto;
     margin:0;
   }
 
