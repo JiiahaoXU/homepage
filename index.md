@@ -13,6 +13,7 @@ I am **Jiahao Xu**, a third-year Ph.D. student in the Department of Computer Sci
 
 ## News
 
+- **[Aug. 2025]** I received the Student Publication & Travel Support from NSF EPSCoR HDRFS, big thanks!
 - **[Aug. 2025]** Our survey paper on potential vulnerabilities of federated learning for smart grids is accepted to ACM TPCS.
 - **[Jul. 2025]** Our paper *SoDa-BNGuard* is accepted to MobiHoc 2025.
 - **[Jul. 2025]** The extended version of our previous work *ReGAN* (CVPR 2023) is accepted to IEEE TPAMI.
