@@ -13,6 +13,8 @@ I am **Jiahao Xu**, a third-year Ph.D. student in the Department of Computer Sci
 
 ## News
 
+- **[Step. 2025]** I have started my internship at Oak Ridge National Laboratory (ORNL) under the supervision of [Dr. Olivera Kotevska](https://www.ornl.gov/staff-profile/olivera-kotevska).
+- **[Step. 2025]** I received a Travel Grant from the Graduate Student Association at UNR, big thanks!
 - **[Aug. 2025]** I received the Student Publication & Travel Support from NSF EPSCoR HDRFS, big thanks!
 - **[Aug. 2025]** Our survey paper on potential vulnerabilities of federated learning for smart grids is accepted to ACM TPCS.
 - **[Jul. 2025]** Our paper *SoDa-BNGuard* is accepted to MobiHoc 2025.
