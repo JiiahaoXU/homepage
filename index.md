@@ -13,6 +13,7 @@ I am **Jiahao Xu**, a third-year Ph.D. student in the Department of Computer Sci
 
 ## News
 
+- **[Nov. 2025]** We won *first place* in the poster competition at the UNR Cybersecurity Conference for three consecutive years!
 - **[Oct. 2025]** I received the Student Travel Grant from MobiHoc 2025, big thank you MobiHoc!
 - **[Step. 2025]** I have started my <span style="color:red;">internship</span> as a Graduate Researcher at the [Oak Ridge National Laboratory](https://www.ornl.gov/) (ORNL) under the supervision of [Dr. Olivera Kotevska](https://www.ornl.gov/staff-profile/olivera-kotevska).
 - **[Step. 2025]** I received a Travel Grant from the Graduate Student Association at UNR, big thanks!
@@ -28,7 +29,7 @@ I am **Jiahao Xu**, a third-year Ph.D. student in the Department of Computer Sci
 - **[Oct. 2024]** Our papers *MASA* and *Reconfig-MIT* are accepted to WACV 2025.
 - **[Aug. 2024]** Our paper *LASA* is accepted to WACV 2025 as an <span style="color:red;">Oral</span> presentation.
 - **[Dec. 2023]** Our paper *RGGAN* is accepted to AAAI 2024.
-- **[Aug. 2023]** I joined University of Nevada, Reno (UNR) as a Ph.D. student.
+- **[Aug. 2023]** I joined University of Nevada, Reno as a Ph.D. student.
 - **[Mar. 2023]** I started my Research Assistant appointment in the Department of Computing at PolyU.
 - **[Feb. 2023]** Our paper *ReGAN* is accepted to CVPR 2023.
 
