@@ -54,6 +54,14 @@
         <br>
         {% endif %}
 
+
+        {% if site.email %}
+        <email>{{ site.email }}</email>
+        {% endif %}
+
+        <br>
+        <br>
+
         {% if site.position2 %}
         <position style="font-size:1.10rem;">{{ site.position2 }}</position>
         <br>
@@ -61,11 +69,6 @@
         {% if site.affiliation2 %}
         <a href="{{ site.affiliation_link2 }}" rel="noopener"><autocolor>{{ site.affiliation2 }}</autocolor></a>
         <br>
-        {% endif %}
-
-
-        {% if site.email %}
-        <email>{{ site.email }}</email>
         {% endif %}
 
         <br>
