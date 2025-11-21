@@ -24,7 +24,7 @@ I am **Jiahao Xu**, a third-year Ph.D. student in the Department of Computer Sci
 - **[Jul. 2025]** Our paper *Fed-HeLLo* is accepted to IEEE TNNLS.
 - **[Apr. 2025]** I received the Travel Support Award from CVPR 2025, big thank you CVPR!
 - **[Feb. 2025]** Our paper *AlignIns* is accepted to CVPR 2025 as a <span style="color:red;">Highlight</span>.
-- **[Jan. 2025]** I received the 2024 Nevada WaterReuse Research Grant as <span style="color:red;">*principal investigator*</span> from WateReuse Nevada, big thanks!
+- **[Jan. 2025]** I received the 2024 Nevada WaterReuse Research Grant as <span style="color:red;">principal investigator</span> from WateReuse Nevada, big thanks!
 - **[Nov. 2024]** I received a Travel Grant from the Graduate Student Association at UNR, big thanks!
 - **[Oct. 2024]** Our papers *MASA* and *Reconfig-MIT* are accepted to WACV 2025.
 - **[Aug. 2024]** Our paper *LASA* is accepted to WACV 2025 as an <span style="color:red;">Oral</span> presentation.
