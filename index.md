@@ -18,7 +18,7 @@ I am **Jiahao Xu**, a third-year Ph.D. student in the Department of Computer Sci
 - **[Step. 2025]** I have started my <span style="color:red;">internship</span> as a Graduate Researcher at the [Oak Ridge National Laboratory](https://www.ornl.gov/) (ORNL) under the supervision of [Dr. Olivera Kotevska](https://www.ornl.gov/staff-profile/olivera-kotevska).
 - **[Step. 2025]** I received a Travel Grant from the Graduate Student Association at UNR, big thanks!
 - **[Aug. 2025]** I received the Student Publication & Travel Support from NSF EPSCoR HDRFS, big thanks!
-- **[Aug. 2025]** Our survey paper on potential vulnerabilities of federated learning for smart grids is accepted to ACM TPCS.
+- **[Aug. 2025]** Our survey paper on potential vulnerabilities of federated learning for smart grids is accepted to ACM TCPS.
 - **[Jul. 2025]** Our paper *SoDa-BNGuard* is accepted to MobiHoc 2025.
 - **[Jul. 2025]** The extended version of our previous work *ReGAN* (CVPR 2023) is accepted to IEEE TPAMI.
 - **[Jul. 2025]** Our paper *Fed-HeLLo* is accepted to IEEE TNNLS.
