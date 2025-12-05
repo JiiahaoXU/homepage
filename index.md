@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am **Jiahao Xu**, a third-year Ph.D. student in the Department of Computer Science and Engineering at the [University of Nevada, Reno](https://www.unr.edu/) (UNR), fortunate to be supervised by [Dr. Rui Hu](https://sites.google.com/view/ruihu/home). Previously, I received my M.Sc. in the Department of Applied Mathematics from The Hong Kong Polytechnic University (PolyU) in March 2023, where I had the privilege of working with [Dr. Divya Saxena](https://sites.google.com/site/saxenadivyakul1/) in the Department of Computing. I obtained my B.Eng. from Fujian Normal University in June 2021.
+I am **Jiahao Xu**, a third-year Ph.D. student in the Department of Computer Science and Engineering at the [University of Nevada, Reno](https://www.unr.edu/) (UNR), fortunate to be supervised by [Dr. Rui Hu](https://sites.google.com/view/ruihu/home). Previously, I received my M.Sc. in the Department of Applied Mathematics from The Hong Kong Polytechnic University (PolyU) in March 2023, where I had the privilege of working with [Dr. Divya Saxena](https://divvyasaxena.github.io/Divya-Saxena/) in the Department of Computing. I obtained my B.Eng. from Fujian Normal University in June 2021.
 
 ## Research Interests
 
