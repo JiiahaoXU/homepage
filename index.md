@@ -13,7 +13,7 @@ I am **Jiahao Xu**, a third-year Ph.D. student in the Department of Computer Sci
 
 ## News
 
-- **[Jan. 2026]** Our papers **GDPFed** is accepted to IEEE IoTJ.
+- **[Jan. 2026]** Our paper *GDPFed* is accepted to IEEE IoTJ.
 - **[Jan. 2026]** Two papers: *TraMark* and *PLoRA* are accepted to ICLR 2026.
 - **[Nov. 2025]** We won *first place* in the poster competition at the UNR Cybersecurity Conference for three consecutive years!
 - **[Oct. 2025]** I received the Student Travel Grant from MobiHoc 2025, big thank you MobiHoc!
