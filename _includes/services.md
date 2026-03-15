@@ -3,11 +3,11 @@
 <h4 style="margin:0 10px 0;">Conference Reviewer / Program Committee </h4>
 
 <ul style="margin:0 0 5px;">
-  <li>CVPR'25, 26; DASFAA'25; ICCV'25; IPDPS'25; NeurIPS'25; WACV'26; AAAI'26; ICLR'26; ...</li>
+  <li>CVPR'25, 26; ICCV'25; IPDPS'25; NeurIPS'25; WACV'26; AAAI'26; ICLR'26; ICML'26; ...</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
-  <li>IEEE OJCOMS; IEEE TMC; IEEE TAI; IEEE TPAMI; IEEE TDSC</li>
+  <li>IEEE OJCOMS; IEEE TMC; IEEE TAI; IEEE TPAMI; IEEE TDSC; IEEE TNNLS; ...</li>
 </ul>

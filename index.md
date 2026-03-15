@@ -4,10 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am **Jiahao Xu**, a third-year Ph.D. student in the Department of Computer Science and Engineering at the [University of Nevada, Reno](https://www.unr.edu/) (UNR), fortunate to be supervised by [Dr. Rui Hu](https://sites.google.com/view/ruihu/home). I am also work closely with 
-[Dr. Olivera Kotevska](https://www.ornl.gov/staff-profile/olivera-kotevska) in the Oak Ridge National Laboratory (ORNL).
-
-I received my M.Sc. in the Department of Applied Mathematics from The Hong Kong Polytechnic University (PolyU) in March 2023, where I had the privilege of working with [Dr. Divya Saxena](https://divvyasaxena.github.io/Divya-Saxena/) in the Department of Computing. I obtained my B.Eng. from Fujian Normal University in June 2021.
+I am **Jiahao Xu**, a third-year Ph.D. student in the Department of Computer Science and Engineering at the [University of Nevada, Reno](https://www.unr.edu/) (UNR), fortunate to be supervised by [Dr. Rui Hu](https://sites.google.com/view/ruihu/home). I also work closely with 
+[Dr. Olivera Kotevska](https://www.ornl.gov/staff-profile/olivera-kotevska) in the Oak Ridge National Laboratory (ORNL). I received my M.Sc. in the Department of Applied Mathematics from The Hong Kong Polytechnic University (PolyU) in March 2023, where I had the privilege of working with [Dr. Divya Saxena](https://divvyasaxena.github.io/Divya-Saxena/) in the Department of Computing. I obtained my B.Eng. from Fujian Normal University in June 2021.
 
 ## Research Interests
 
@@ -20,7 +18,7 @@ I received my M.Sc. in the Department of Applied Mathematics from The Hong Kong 
 - **[Jan. 2026]** Two papers: *TraMark* and *PLoRA* are accepted to ICLR 2026.
 - **[Nov. 2025]** We won *first place* in the poster competition at the UNR Cybersecurity Conference for three consecutive years!
 - **[Oct. 2025]** I received the Student Travel Grant from MobiHoc 2025, big thank you MobiHoc!
-- **[Step. 2025]** I have started my <span style="color:red;">internship</span> as a Graduate Researcher at the [Oak Ridge National Laboratory](https://www.ornl.gov/) (ORNL) under the supervision of [Dr. Olivera Kotevska](https://www.ornl.gov/staff-profile/olivera-kotevska).
+- **[Step. 2025]** I have started my <span style="color:red;">internship</span> as a Graduate Researcher at the [Oak Ridge National Laboratory](https://www.ornl.gov/) under the supervision of [Dr. Olivera Kotevska](https://www.ornl.gov/staff-profile/olivera-kotevska).
 - **[Step. 2025]** I received a Travel Grant from the Graduate Student Association at UNR, big thanks!
 - **[Aug. 2025]** I received the Student Publication & Travel Support from NSF EPSCoR HDRFS, big thanks!
 - **[Aug. 2025]** Our survey paper on potential vulnerabilities of federated learning for smart grids is accepted to ACM TCPS.
