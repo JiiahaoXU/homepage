@@ -13,6 +13,7 @@ I am **Jiahao Xu**, a third-year Ph.D. student in the Department of Computer Sci
 
 ## News
 
+- **[Apr. 2026]** I received the Outstanding Graduate Student Researcher Scholarship, thank you GSA!
 - **[Jan. 2026]** Our paper *GDPFed* is accepted to IEEE IoT-J.
 - **[Jan. 2026]** Two papers: *TraMark* and *PLoRA* are accepted to ICLR 2026.
 - **[Nov. 2025]** We won *first place* in the poster competition at the UNR Cybersecurity Conference for three consecutive years!
