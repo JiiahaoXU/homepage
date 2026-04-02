@@ -33,6 +33,13 @@
     <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
     {% endif %}
+    <style>
+      .mapmyvisitors-wrapper {
+        display: inline-block;
+        transform: scale(0.72);
+        transform-origin: left top;
+      }
+    </style>
 
   </head>
   <body>
@@ -112,11 +119,13 @@
       {{ content }}
 
       <br>
+      <div class="mapmyvisitors-wrapper">
+        <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=000000&w=a&t=n&d=MsFRKgzIdh3T1KVQ4tMNIVjQpnPGKUgjdeaTcCylAmY&co=ffffff'></script>
+      </div>
 
       {% if site.enable_footnote %}
       <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
       {% endif %}
-      <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=000000&w=a&t=n&d=MsFRKgzIdh3T1KVQ4tMNIVjQpnPGKUgjdeaTcCylAmY&co=ffffff'></script>
 
       </section>
       <footer>
