@@ -13,10 +13,10 @@ I am **Jiahao Xu**, a third-year Ph.D. student in the Department of Computer Sci
 
 ## News
 
-- **[Apr. 2026]** Our work *XMark* is accepted to ACL 2026 as a main!
+- **[Apr. 2026]** Our work *XMark* is accepted to **ACL 2026** as a main!
 - **[Apr. 2026]** I received the Outstanding Graduate Student Researcher Scholarship, thank you GSA!
-- **[Jan. 2026]** Our paper *GDPFed* is accepted to IEEE IoT-J.
-- **[Jan. 2026]** Two papers: *TraMark* and *PLoRA* are accepted to ICLR 2026.
+- **[Jan. 2026]** Our paper *GDPFed* is accepted to **IEEE IoT-J**.
+- **[Jan. 2026]** Two papers: *TraMark* and *PLoRA* are accepted to **ICLR 2026**.
 - **[Nov. 2025]** We won *first place* in the poster competition at the UNR Cybersecurity Conference for three consecutive years!
 - **[Oct. 2025]** I received the Student Travel Grant from MobiHoc 2025, big thank you MobiHoc!
 - **[Step. 2025]** I have started my <span style="color:red;">internship</span> as a Graduate Researcher at the [Oak Ridge National Laboratory](https://www.ornl.gov/) under the supervision of [Dr. Olivera Kotevska](https://www.ornl.gov/staff-profile/olivera-kotevska).
