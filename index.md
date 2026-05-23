@@ -13,6 +13,7 @@ I am **Jiahao Xu**, a third-year Ph.D. ~~student~~ candidate in the Department o
 
 ## News
 
+- **[May 2026]** I received the ACL 2026 Volunteer Award, thank you ACL!
 - **[Apr. 2026]** I have passed the comprehensive exam and am now a Ph.D. candidate!
 - **[Apr. 2026]** Our work *XMark* is accepted to **ACL 2026** as a main!
 - **[Apr. 2026]** I received the Outstanding Graduate Student Researcher Scholarship, thank you GSA!
