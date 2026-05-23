@@ -9,5 +9,5 @@
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
-  <li>IEEE OJCOMS; IEEE TMC; IEEE TAI; IEEE TPAMI; IEEE TDSC; IEEE TNNLS; IEEE TIFS ...</li>
+  <li>IEEE OJCOMS; IEEE TMC; IEEE TAI; IEEE TPAMI; IEEE TDSC; IEEE TNNLS; IEEE TIFS; ...</li>
 </ul>
