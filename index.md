@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am **Jiahao Xu**, a third-year Ph.D. ~~student~~ candidate in the Department of Computer Science and Engineering at the [University of Nevada, Reno](https://www.unr.edu/) (UNR), where I am fortunate to be advised by [Dr. Rui Hu](https://sites.google.com/view/ruihu/home). I also have the privilege of working closely with [Dr. Olivera Kotevska](https://www.ornl.gov/staff-profile/olivera-kotevska) during my internship at Oak Ridge National Laboratory (ORNL). I received my M.Sc. in Applied Mathematics from The Hong Kong Polytechnic University (PolyU) in March 2023, where I worked with [Dr. Divya Saxena](https://divvyasaxena.github.io/Divya-Saxena/) in the Department of Computing. I earned my B.Eng. from Fujian Normal University in June 2021.
+I am **Jiahao Xu**, a fourth-year Ph.D. candidate in the Department of Computer Science and Engineering at the [University of Nevada, Reno](https://www.unr.edu/) (UNR), where I am fortunate to be advised by [Dr. Rui Hu](https://sites.google.com/view/ruihu/home). I also have the privilege of working closely with [Dr. Olivera Kotevska](https://www.ornl.gov/staff-profile/olivera-kotevska) during my internship at Oak Ridge National Laboratory (ORNL). I received my M.Sc. in Applied Mathematics from The Hong Kong Polytechnic University (PolyU) in March 2023, where I worked with [Dr. Divya Saxena](https://divvyasaxena.github.io/Divya-Saxena/) in the Department of Computing. I earned my B.Eng. from Fujian Normal University in June 2021.
 
 ## Research Interests
 
