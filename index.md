@@ -13,6 +13,7 @@ I am **Jiahao Xu**, a third-year Ph.D. ~~student~~ candidate in the Department o
 
 ## News
 
+- **[Sep. 2026]** Our work *SelfGrader* is accepted to **AACL 2026** as a Findings!
 - **[Jul. 2026]** Our work on vision token manipulation attacks on MLLMs is accepted to **GLOBECOM 2026**!
 - **[May 2026]** I received the ACL 2026 Volunteer Award, thank you ACL!
 - **[Apr. 2026]** I have passed the comprehensive exam and am now a Ph.D. candidate!
