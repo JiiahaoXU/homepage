@@ -9,10 +9,11 @@ I am **Jiahao Xu**, a fourth-year Ph.D. candidate in the Department of Computer 
 ## Research Interests
 
 - **Federated Learning:** Security, Privacy, Model Watermarking
-- **Large Language Models:** Text Watermarking
+- **Large Language Models:** Text Watermarking, Model Watermarking
 
 ## News
 
+- **[Sep. 2026]** Our work *MajorMark* is accepted to **NeurIPS 2026**!
 - **[Sep. 2026]** Our work *SelfGrader* is accepted to **AACL 2026** as a Findings!
 - **[Jul. 2026]** Our work on vision token manipulation attacks on MLLMs is accepted to **GLOBECOM 2026**!
 - **[May 2026]** I received the ACL 2026 Volunteer Award, thank you ACL!
