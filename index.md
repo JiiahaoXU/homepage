@@ -13,6 +13,7 @@ I am **Jiahao Xu**, a fourth-year Ph.D. candidate in the Department of Computer 
 
 ## News
 
+- **[Oct. 2026]** We won *first place* in the poster competition at the UNR Cybersecurity Conference for **four years in a row**!
 - **[Sep. 2026]** Our work *MajorMark* is accepted to **NeurIPS 2026**!
 - **[Sep. 2026]** Our work *SelfGrader* is accepted to **AACL 2026** as a Findings!
 - **[Jul. 2026]** Our work on vision token manipulation attacks on MLLMs is accepted to **GLOBECOM 2026**!
