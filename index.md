@@ -8,8 +8,7 @@ I am **Jiahao Xu**, a fourth-year Ph.D. candidate in the Department of Computer 
 
 ## Research Interests
 
-- **Federated Learning:** Security, Privacy, Model Watermarking
-- **Large Language Models:** Text Watermarking, Model Watermarking
+AI Security and Privacy; Provenance and Watermarking of Foundation Models and LLMs; Trustworthy Federated Learning; Edge AI
 
 ## News
 
